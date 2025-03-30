@@ -29,6 +29,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 build-mode = "apk"
+arch = "arm64-v8a"
 
 [Twitter]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
@@ -43,4 +44,5 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 [Spotify]
 build-mode = "apk"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-spotify-dlurl = "https://apkpure.com/spotify-music-and-podcasts-for-android/com.spotify.music"
+apkpure-dlurl = "https://apkpure.com/spotify-music-and-podcasts-for-android/com.spotify.music"
+arch = "arm64-v8a"
