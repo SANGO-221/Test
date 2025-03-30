@@ -7,11 +7,11 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [Instagram]
-
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 build-mode = "apk"
 version = "366.0.0.34.86"
+arch = "arm64-v8a"
 
 [YouTube]
 build-mode = "apk"
@@ -26,14 +26,15 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Twitch]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch/twitch-interactive-inc/"
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 build-mode = "apk"
 
 [Twitter]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
+uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 build-mode = "apk"
-version = "10.84.0-release.0"
+version = "10.48.0-release.0"
 
 [Reddit]
 build-mode = "apk"
