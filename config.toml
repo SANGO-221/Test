@@ -78,6 +78,7 @@ arch = "arm64-v8a"
 enabled = false
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
-[IconPackStudio]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+build-mode = "apk"
+version = "latest"
