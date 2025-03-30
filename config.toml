@@ -9,7 +9,7 @@ parallel-jobs = 1
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 build-mode = "apk"
-version = "auto"
+version = "372.0.0.48.60"
 patches-source = "revanced/revanced-patches"
 patches-version = "latest"
 
