@@ -1,5 +1,7 @@
 GooglePhotos: 7.22.0.740933857  
+Instagram: 366.0.0.34.86  
 Reddit: 2024.17.0  
+Twitter: 10.48.0-release.0  
 YouTube: 20.07.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
