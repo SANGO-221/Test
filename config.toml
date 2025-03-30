@@ -9,7 +9,7 @@ parallel-jobs = 1
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 build-mode = "apk"
-version = "372.0.0.48.60"
+version = "366.0.0.34.86"
 patches-source = "revanced/revanced-patches"
 patches-version = "latest"
 
@@ -30,7 +30,7 @@ patches-source = "revanced/revanced-patches"
 patches-version = "latest"
 
 [Twitch]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch/twitch-interactive-inc/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 build-mode = "apk"
 version = "auto"
@@ -40,7 +40,7 @@ patches-version = "latest"
 [Twitter]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 build-mode = "apk"
-version = "auto"
+version = "10.84.0-release.0"
 patches-source = "revanced/revanced-patches"
 patches-version = "latest"
 
