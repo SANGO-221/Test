@@ -7,45 +7,38 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [Instagram]
+
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 build-mode = "apk"
 version = "366.0.0.34.86"
-patches-source = "revanced/revanced-patches"
-patches-version = "latest"
 
 [YouTube]
 build-mode = "apk"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-patches-source = "revanced/revanced-patches"
-patches-version = "latest"
 
 [GooglePhotos]
 build-mode = "apk"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-patches-source = "revanced/revanced-patches"
-patches-version = "latest"
 
 [Twitch]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch/twitch-interactive-inc/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 build-mode = "apk"
-version = "auto"
-patches-source = "revanced/revanced-patches"
-patches-version = "latest"
 
 [Twitter]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 build-mode = "apk"
 version = "10.84.0-release.0"
-patches-source = "revanced/revanced-patches"
-patches-version = "latest"
 
 [Reddit]
 build-mode = "apk"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-patches-source = "revanced/revanced-patches"
-patches-version = "latest"
+
+[Spotify]
+build-mode = "apk"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
